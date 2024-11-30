@@ -23,3 +23,17 @@ This is an updated version of the original game, improved with better error hand
 1. Clone this repository:
    ```bash
    git clone https://github.com/pranjalco/rock-paper-scissors-intermediate.git
+
+2. Navigate to the project directory:
+
+## Running the Program
+1. Ensure Python 3.9 or later is installed on your system.
+2. To run the program:
+   - **Using PyCharm**: Open the project in PyCharm and run `rock_paper_scissors_version_2.py`.
+   - **Using Terminal/Command Prompt**: Navigate to the project folder and execute:
+     ```bash
+     python rock_paper_scissors_version_2.py
+     ```
+   - **By Double-Clicking**: You can double-click `rock_paper_scissors_version_2.py` to run it directly, provided Python is set up to execute `.py` files on your system.
+3. If the console window closes immediately, run the program from the terminal/command prompt or IDE to see the output.
+

@@ -25,6 +25,7 @@ This is an updated version of the original game, improved with better error hand
    git clone https://github.com/pranjalco/rock-paper-scissors-intermediate.git
 
 2. Navigate to the project directory:
+   ```bash
    cd rock-paper-scissors-intermediate
 
 ## Running the Program

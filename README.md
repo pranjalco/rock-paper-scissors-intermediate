@@ -25,6 +25,7 @@ This is an updated version of the original game, improved with better error hand
    git clone https://github.com/pranjalco/rock-paper-scissors-intermediate.git
 
 2. Navigate to the project directory:
+   cd rock-paper-scissors-intermediate
 
 ## Running the Program
 1. Ensure Python 3.9 or later is installed on your system.
